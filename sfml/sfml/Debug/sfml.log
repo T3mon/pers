@@ -1,0 +1,6 @@
+﻿  sfml.cpp
+c:\users\artem\source\repos\sfml\sfml\sfml.cpp(40): warning C4305: аргумент: усечение из "double" в "float"
+c:\users\artem\source\repos\sfml\sfml\sfml.cpp(44): warning C4305: аргумент: усечение из "double" в "float"
+c:\users\artem\source\repos\sfml\sfml\sfml.cpp(50): warning C4305: аргумент: усечение из "double" в "float"
+c:\users\artem\source\repos\sfml\sfml\sfml.cpp(54): warning C4305: аргумент: усечение из "double" в "float"
+  sfml.vcxproj -> C:\Users\Artem\source\repos\sfml\Debug\sfml.exe
